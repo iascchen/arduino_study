@@ -135,10 +135,16 @@ Arduino Yun 上的 Python，运行于 AR9331 的 Linino 上，需要通过 Bridg
 
 ---
 
+转载请注明出处
+
 Author : iascchen(at)gmail(dot)com
 
-Date : 2014-5-8
+Date : 2014-5-1
+
+Github : [https://github.com/iascchen/arduino_study](https://github.com/iascchen/arduino_study)
 
 新浪微博 : [@问天鼓](http://www.weibo.com/iascchen)
+
+CSDN : [http://blog.csdn.net/iascchen](http://blog.csdn.net/iascchen)
 
 ---
