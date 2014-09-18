@@ -456,7 +456,7 @@ Microduino BT 模块采用的是 **HM-10，CC2540** 芯片的蓝牙模块，当�
 
 ## 代码地址 ##
 
-[https://github.com/iascchen/arduino_study/src/bt_uart](https://github.com/iascchen/arduino_study/src/bt_uart)
+[https://github.com/iascchen/arduino_study/tree/master/src/bt_uart](https://github.com/iascchen/arduino_study/tree/master/src/bt_uart)
 
 ---
 
