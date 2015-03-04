@@ -2,8 +2,9 @@
 
 Arduino 学习相关的一些内容
 
-1. Arduino Yun 开整 之 通过 Python 控制 D13 指示灯
-2. Microduino BT 模块 iBeacon 实践
+1. [Arduino Yun 开整 之 通过 Python 控制 D13 指示灯](docs/arduino_yun_python.md)
+2. [Microduino BT 模块 iBeacon 实践](docs/microduino_bt_ibeacon.md)
+3. [EtOH BLE Programmer OSX 安装](docs/EtOH_ble_programmer_mac.md)
 
 ---
 
